@@ -16,6 +16,10 @@ a {
 	color: #47C6F8;
 }
 
+.shadowtext{
+	text-shadow: 2px 2px 5px black ;
+}
+
 a:hover {
 	color: #0FF;
 }
@@ -27,11 +31,10 @@ h2
 		font-size: 40px;
 		padding-bottom: 40px;
 	}
-h2 span
-	{
-		color: #00000;
-		//font-weight: bold;
-	}
+h2 span{
+		color: #ffffff;
+		/*font-weight: bold;*/
+}
 /* end h2 */
 
 /* start about team service portfolio contact */
