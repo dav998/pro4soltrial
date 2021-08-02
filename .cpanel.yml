@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/juliogalindo705/public_html/pro4sol.com
+     - /bin/cp -R images $DEPLOYPATH
